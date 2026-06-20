@@ -1,0 +1,2 @@
+# MANHATTAN
+privicy_policy
