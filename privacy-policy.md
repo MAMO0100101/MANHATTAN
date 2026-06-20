@@ -74,7 +74,7 @@ We may update this Privacy Policy from time to time. We will notify users of sig
 
 For privacy questions or data deletion requests, contact us at:
 
-- **Email:** asadaso991@gmail.com
+- **Email:** alatahaid@gmail.com
 
 
 ---
