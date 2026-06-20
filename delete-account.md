@@ -13,7 +13,7 @@ You can request deletion of your account and associated personal data at any tim
 
 ### Option 1 — Email (recommended)
 
-1. Send an email to **asadaso991@gmail.com**
+1. Send an email to **alatahaid@gmail.com**
 2. Use subject line: **Delete my MANHATTAN account**
 3. Include the **phone number** you used to register in the app
 4. We will delete your account and data within **30 days** and confirm by email
@@ -50,4 +50,4 @@ Logging out removes the saved login token from your device.
 
 ## Questions?
 
-Email: **asadaso991@gmail.com**
+Email: **alatahaid@gmail.com**
